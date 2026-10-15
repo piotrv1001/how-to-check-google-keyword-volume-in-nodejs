@@ -1,0 +1,36 @@
+[
+  {
+    "keyword": "running shoes",
+    "country": "us",
+    "language": "en",
+    "searchVolume": 110000,
+    "cpc": 1.85,
+    "competition": "HIGH",
+    "competitionIndex": 86,
+    "lowTopOfPageBid": 0.72,
+    "highTopOfPageBid": 2.41,
+    "monthlySearches": [
+      { "month": "2026-08", "searchVolume": 110000 },
+      { "month": "2026-09", "searchVolume": 135000 }
+    ],
+    "spellingCorrection": null,
+    "scrapedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "keyword": "trail running shoes",
+    "country": "us",
+    "language": "en",
+    "searchVolume": 18100,
+    "cpc": 1.34,
+    "competition": "HIGH",
+    "competitionIndex": 79,
+    "lowTopOfPageBid": 0.49,
+    "highTopOfPageBid": 1.91,
+    "monthlySearches": [
+      { "month": "2026-08", "searchVolume": 18100 },
+      { "month": "2026-09", "searchVolume": 22200 }
+    ],
+    "spellingCorrection": null,
+    "scrapedAt": "2026-10-15T00:00:00.000Z"
+  }
+]
